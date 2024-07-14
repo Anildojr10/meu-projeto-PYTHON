@@ -1,1 +1,0 @@
-print(f'Varival Global: {var_local}')
